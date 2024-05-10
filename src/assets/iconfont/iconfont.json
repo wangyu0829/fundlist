@@ -1,0 +1,23 @@
+{
+  "id": "4540117",
+  "name": "创金启富",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838582",
+      "name": "arrow-down-filling",
+      "font_class": "arrow-down-filling",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "1256486",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
